@@ -94,4 +94,4 @@ curl -sSL https://raw.githubusercontent.com/Fantom1901/mysetup/main/run.sh
 
 ## 👤 Автор
 
-Сделано для себя
+Сделано для себя (Nixa).
